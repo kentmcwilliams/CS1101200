@@ -1,2 +1,0 @@
-References: https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository![]
-	https://github.com/mre/the-coding-interview.git
